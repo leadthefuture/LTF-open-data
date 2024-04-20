@@ -1,4 +1,115 @@
 school_name,country
+[CH] ETH
+[ES] Universidad Autonoma de Madrid
+[FR] ENS Lyon
+[GE] RWTH
+[Input Sbagliato]
+[IR] University College Dublin
+[NL] Groningen
+[NL] University of Amsterdam
+[NL] Wageningen University
+[PL] Jagiellonian University - Cracovia
+[Test]
+[UK] Glasgow
+[UK] Queen's
+[UK] University of Bath
+[UK] University of Birmingham
+[UK] University of Bristol
+[UK] University of Dundee
+[US] Chicago
+[US] Princeton
+[USA] NYU
+[USA] University of Mariland
+[USA] Wingate
+Acc. Belle Arti Napoli
+Aligarh Muslim University (India)
+Bicocca
+Bocconi
+Ca' Foscari
+Cambridge
+Cattolica
+Charité – Universitätsmedizin Berlin
+Durham
+Edinburgh
+Eindhoven
+EPFL
+EPFS
+ESCP
+ESMT
+Federico II
+IED
+Imperial
+Innsbruck
+IULM
+King's College
+KTH
+KU Leuven
+La Sapienza
+LUISS
+Maastricht
+Manchester
+MIT
+MunER
+Non ancora iscritto
+Normale
+Oxford
+PoliBa
+PoliMi
+PoliTo
+Roma Tre
+Sant'Anna
+Southampton
+Statale di Milano
+Supsi
+Tor Vergata
+Tu Delft
+TUM
+UCD
+UCL
+UCLA
+UniBa
+UniBas
+UniBg
+UniBo
+UniBs
+UniBz
+UniCal
+UniCam
+UniCampania
+UniCas
+UniCo
+UniCt
+UniFe
+UniFg
+UniFi
+UniGe
+UniKore
+UniLuebeck
+UniMe
+UniMi
+UniMol
+UniMoRe
+UnInsubria
+UniPa
+UniPd
+UniPg
+UniPi
+UniPm
+UniPr
+UniPv
+UniRc
+UniSa
+UniSanMarino
+UniSr
+UniTn
+UniTo
+UniTs
+UniUd
+UniUpo
+Univa
+Univaq
+UniVda
+UniVr
 Harvard University,United States of America
 California Institute of Technology,United States of America
 Massachusetts Institute of Technology,United States of America
@@ -817,114 +928,3 @@ Yeungnam University,South Korea
 Yıldız Technical University,Turkey
 Yokohama City University,Japan
 Yokohama National University,Japan
-[CH] ETH
-[ES] Universidad Autonoma de Madrid
-[FR] ENS Lyon
-[GE] RWTH
-[Input Sbagliato]
-[IR] University College Dublin
-[NL] Groningen
-[NL] University of Amsterdam
-[NL] Wageningen University
-[PL] Jagiellonian University - Cracovia
-[Test]
-[UK] Glasgow
-[UK] Queen's
-[UK] University of Bath
-[UK] University of Birmingham
-[UK] University of Bristol
-[UK] University of Dundee
-[US] Chicago
-[US] Princeton
-[USA] NYU
-[USA] University of Mariland
-[USA] Wingate
-Acc. Belle Arti Napoli
-Aligarh Muslim University (India)
-Bicocca
-Bocconi
-Ca' Foscari
-Cambridge
-Cattolica
-Charité – Universitätsmedizin Berlin
-Durham
-Edinburgh
-Eindhoven
-EPFL
-EPFS
-ESCP
-ESMT
-Federico II
-IED
-Imperial
-Innsbruck
-IULM
-King's College
-KTH
-KU Leuven
-La Sapienza
-LUISS
-Maastricht
-Manchester
-MIT
-MunER
-Non ancora iscritto
-Normale
-Oxford
-PoliBa
-PoliMi
-PoliTo
-Roma Tre
-Sant'Anna
-Southampton
-Statale di Milano
-Supsi
-Tor Vergata
-Tu Delft
-TUM
-UCD
-UCL
-UCLA
-UniBa
-UniBas
-UniBg
-UniBo
-UniBs
-UniBz
-UniCal
-UniCam
-UniCampania
-UniCas
-UniCo
-UniCt
-UniFe
-UniFg
-UniFi
-UniGe
-UniKore
-UniLuebeck
-UniMe
-UniMi
-UniMol
-UniMoRe
-UnInsubria
-UniPa
-UniPd
-UniPg
-UniPi
-UniPm
-UniPr
-UniPv
-UniRc
-UniSa
-UniSanMarino
-UniSr
-UniTn
-UniTo
-UniTs
-UniUd
-UniUpo
-Univa
-Univaq
-UniVda
-UniVr
